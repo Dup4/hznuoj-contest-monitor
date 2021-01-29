@@ -24,91 +24,71 @@
 
 ### 登录界面
 
-<center>
-
-![登录界面](./Screenshot/login.png)
-
-</center>
+<p align="center">
+<img src="./Screenshot/login.png"/>
+</p>
 
 
 ### 整体监控界面
 
-<center>
-
-![整体监控界面](./Screenshot/all.png)
-
-</center>
+<p align="center">
+<img src="./Screenshot/all.png"/>
+</p>
 
 ### 各题提交类型统计
 
-<center>
-
-![各题提交类型统计](./Screenshot/submit_type.png)
-
-</center>
+<p align="center">
+<img src="./Screenshot/submit_type.png"/>
+</p>
 
 ### 一分钟提交量与通过量统计
 
-<center>
-
-![一分钟提交量与通过量统计](./Screenshot/one_minute_submit_ac.png)
-
-</center>
+<p align="center">
+<img src="./Screenshot/one_minute_submit_ac.png"/>
+</p>
 
 ### 十分钟提交类型统计
 
-<center>
-
-![十分钟提交类型统计](./Screenshot/ten_minute_submit_type.png)
-
-</center>
+<p align="center">
+<img src="./Screenshot/ten_minute_submit_type.png"/>
+</p>
 
 ### 过题队伍统计
 
-<center>
-
-![过题队伍统计](./Screenshot/ac_number_team.png)
-
-</center>
+<p align="center">
+<img src="./Screenshot/ac_number_team.png"/>
+</p>
 
 ### 饼状图
 
-<center>
-
-![饼状图](./Screenshot/pie.png)
-
-</center>
+<p align="center">
+<img src="./Screenshot/pie.png"/>
+</p>
 
 ### 单题统计
 
 #### 提交语言饼状图
 
-<center>
-
-![提交语言饼状图](./Screenshot/single_problem_submit_language.png)
-
-</center>
+<p align="center">
+<img src="./Screenshot/single_problem_submit_language.png"/>
+</p>
 
 #### 提交类型饼状图
 
-<center>
-
-![提交类型饼状图](./Screenshot/single_problem_submit_type.png)
-
-</center>
+<p align="center">
+<img src="./Screenshot/single_problem_submit_type.png"/>
+</p>
 
 #### 一分钟提交量与通过量统计
 
-<center>
-
-![一分钟提交量与通过量统计](./Screenshot/single_problem_submit_ac.png)
-
-</center>
+<p align="center">
+<img src="./Screenshot/single_problem_submit_ac.png"/>
+</p>
 
 #### 十分钟提交类型统计
 
-<center>
 
-![一分钟提交量与通过量统计](./Screenshot/single_problem_ten_minutes_submit_type.png)
+<p align="center">
+<img src="./Screenshot/single_problem_ten_minutes_submit_type.png"/>
+</p>
 
-</center>
